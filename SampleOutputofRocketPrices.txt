@@ -56,201 +56,201 @@ Champions Crate 1 :  0.20  ( Rare item )
 Dominus GT
 1 - 1.5  
 Import
-Dominus GT :  1 - 1.5  
+Dominus GT :  1 - 1.5   ( Import )
 ...
 
 Breakout Type S
 1 - 1.5  
 Import
-Breakout Type S :  1 - 1.5  
+Breakout Type S :  1 - 1.5   ( Import )
 ...
 
 Octane ZSR
 1 - 1.5  
 Import
-Octane ZSR :  1 - 1.5  
+Octane ZSR :  1 - 1.5   ( Import )
 ...
 
 Dominus GT
 0.75 - 1 
 Import
-Dominus GT :  0.75 - 1 
+Dominus GT :  0.75 - 1  ( Import )
 ...
 
 Road Hog XL
 0.50 
 Import
-Road Hog XL :  0.50 
+Road Hog XL :  0.50  ( Import )
 ...
 
 Takumi RXT
 0.50 
 Import
-Takumi RXT :  0.50 
+Takumi RXT :  0.50  ( Import )
 ...
 
 X-Devil MK2
 0.50 
 Import
-X-Devil MK2 :  0.50 
+X-Devil MK2 :  0.50  ( Import )
 ...
 
 Breakout Type S
 0.75 - 1 
 Import
-Breakout Type S :  0.75 - 1 
+Breakout Type S :  0.75 - 1  ( Import )
 ...
 
 Octane ZSR
 0.75 - 1  
 Import
-Octane ZSR :  0.75 - 1  
+Octane ZSR :  0.75 - 1   ( Import )
 ...
 
 FSL
 0.50 - 1  
 Import
-FSL :  0.50 - 1  
+FSL :  0.50 - 1   ( Import )
 ...
 
 Pixelfire
 0.50 
 Import
-Pixelfire :  0.50 
+Pixelfire :  0.50  ( Import )
 ...
 
 Dark Matter
 0.50 - 1 
 Import
-Dark Matter :  0.50 - 1 
+Dark Matter :  0.50 - 1  ( Import )
 ...
 
 Trinity
 0.50 
 Import
-Trinity :  0.50 
+Trinity :  0.50  ( Import )
 ...
 
 Hypernova
 0.50 - 1 
 Import
-Hypernova :  0.50 - 1 
+Hypernova :  0.50 - 1  ( Import )
 ...
 
 Proton
 0.50 - 1 
 Import
-Proton :  0.50 - 1 
+Proton :  0.50 - 1  ( Import )
 ...
 
 10  Purple Items Present.
 Chakram
 0.50 
 Very Rare
-Chakram :  0.50 
+Chakram :  0.50  ( Very Rare )
 ...
 
 Troika
 0.50 
 Very Rare
-Troika :  0.50 
+Troika :  0.50  ( Very Rare )
 ...
 
 Spiralis
 0.50 
 Very Rare
-Spiralis :  0.50 
+Spiralis :  0.50  ( Very Rare )
 ...
 
 Polygonal
 0.25 - 0.50 
 Very Rare
-Polygonal :  0.25 - 0.50 
+Polygonal :  0.25 - 0.50  ( Very Rare )
 ...
 
 Slipstream
 7 - 8 
 Very Rare
-Slipstream :  7 - 8 
+Slipstream :  7 - 8  ( Very Rare )
 ...
 
 Parallax
 9 - 10 
 Very Rare
-Parallax :  9 - 10 
+Parallax :  9 - 10  ( Very Rare )
 ...
 
 Labyrinth
 5 - 6  
 Very Rare
-Labyrinth :  5 - 6  
+Labyrinth :  5 - 6   ( Very Rare )
 ...
 
 Heatwave
 18 - 20 
 Very Rare
-Heatwave :  18 - 20 
+Heatwave :  18 - 20  ( Very Rare )
 ...
 
 Hexed
 22 - 23 
 Very Rare
-Hexed :  22 - 23 
+Hexed :  22 - 23  ( Very Rare )
 ...
 
 Biomass
 9 - 12 
 Very Rare
-Biomass :  9 - 12 
+Biomass :  9 - 12  ( Very Rare )
 ...
 
 8  Yellow Items Present.
 Photons
 0.50 
 Exotic
-Photons :  0.50 
+Photons :  0.50  ( Exotic )
 ...
 
 Loopers
 1 
 Exotic
-Loopers :  1 
+Loopers :  1  ( Exotic )
 ...
 
 Lobos
 0.50 
 Exotic
-Lobos :  0.50 
+Lobos :  0.50  ( Exotic )
 ...
 
 Voltaic
 1 
 Exotic
-Voltaic :  1 
+Voltaic :  1  ( Exotic )
 ...
 
 Discotheque
 1 
 Exotic
-Discotheque :  1 
+Discotheque :  1  ( Exotic )
 ...
 
 Pulsus
 0.50 - 1 
 Exotic
-Pulsus :  0.50 - 1 
+Pulsus :  0.50 - 1  ( Exotic )
 ...
 
 Ara-51
 1 
 Exotic
-Ara-51 :  1 
+Ara-51 :  1  ( Exotic )
 ...
 
 Zomba
 1 
 Exotic
-Zomba :  1 
+Zomba :  1  ( Exotic )
 ...
 
 ____________________

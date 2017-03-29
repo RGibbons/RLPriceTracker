@@ -91,8 +91,9 @@ for item in redItems:
 	print(rarity)
 	RLItems[name] = name
 	RLItems[name+"Price"] = price
+	RLItems[name+"Rarity"] = rarity
 	#RLItems[name+"Colors"] = {}
-	print(RLItems[name], ": ", RLItems[name+'Price'])
+	print(RLItems[name], ": ", RLItems[name+'Price'], "(", RLItems[name+"Rarity"], ")")
 	print("...\n")
 
 purpleItems = rocketHTML.select(".imgWrappgreen")
@@ -112,8 +113,9 @@ for item in purpleItems:
 	print(rarity)
 	RLItems[name] = name
 	RLItems[name+"Price"] = price
+	RLItems[name+"Rarity"] = rarity
 	#RLItems[name+"Colors"] = {}
-	print(RLItems[name], ": ", RLItems[name+'Price'])
+	print(RLItems[name], ": ", RLItems[name+'Price'], "(", RLItems[name+"Rarity"], ")")
 	print("...\n")
 
 yellowItems = rocketHTML.select(".imgWrappyellow")
@@ -133,6 +135,7 @@ for item in yellowItems:
 	print(rarity)
 	RLItems[name] = name
 	RLItems[name+"Price"] = price
+	RLItems[name+"Rarity"] = rarity
 	#RLItems[name+"Colors"] = {}
-	print(RLItems[name], ": ", RLItems[name+'Price'])
+	print(RLItems[name], ": ", RLItems[name+'Price'], "(", RLItems[name+"Rarity"], ")")
 	print("...\n")
