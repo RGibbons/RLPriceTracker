@@ -1,0 +1,257 @@
+SampleOutputofRocketPrices.txt
+
+Sample Output starts here
+__________________________________
+
+8  Green Items Present.
+Key
+1 
+Limited
+Key :  1  ( Limited )
+...
+
+Beta nugget
+18 - 20 
+Limited
+Beta nugget :  18 - 20  ( Limited )
+...
+
+Turbo Crate
+1  
+Rare item
+Turbo Crate :  1   ( Rare item )
+...
+
+Player Choice Crate 1
+0.50  
+Rare item
+Player Choice Crate 1 :  0.50   ( Rare item )
+...
+
+Champions Crate 4
+0.20  
+Rare item
+Champions Crate 4 :  0.20   ( Rare item )
+...
+
+Champions Crate 3
+0.20 
+Rare item
+Champions Crate 3 :  0.20  ( Rare item )
+...
+
+Champions Crate 2
+0.15 
+Rare item
+Champions Crate 2 :  0.15  ( Rare item )
+...
+
+Champions Crate 1
+0.20 
+Rare item
+Champions Crate 1 :  0.20  ( Rare item )
+...
+
+15 Red Items Present.
+Dominus GT
+1 - 1.5  
+Import
+Dominus GT :  1 - 1.5  
+...
+
+Breakout Type S
+1 - 1.5  
+Import
+Breakout Type S :  1 - 1.5  
+...
+
+Octane ZSR
+1 - 1.5  
+Import
+Octane ZSR :  1 - 1.5  
+...
+
+Dominus GT
+0.75 - 1 
+Import
+Dominus GT :  0.75 - 1 
+...
+
+Road Hog XL
+0.50 
+Import
+Road Hog XL :  0.50 
+...
+
+Takumi RXT
+0.50 
+Import
+Takumi RXT :  0.50 
+...
+
+X-Devil MK2
+0.50 
+Import
+X-Devil MK2 :  0.50 
+...
+
+Breakout Type S
+0.75 - 1 
+Import
+Breakout Type S :  0.75 - 1 
+...
+
+Octane ZSR
+0.75 - 1  
+Import
+Octane ZSR :  0.75 - 1  
+...
+
+FSL
+0.50 - 1  
+Import
+FSL :  0.50 - 1  
+...
+
+Pixelfire
+0.50 
+Import
+Pixelfire :  0.50 
+...
+
+Dark Matter
+0.50 - 1 
+Import
+Dark Matter :  0.50 - 1 
+...
+
+Trinity
+0.50 
+Import
+Trinity :  0.50 
+...
+
+Hypernova
+0.50 - 1 
+Import
+Hypernova :  0.50 - 1 
+...
+
+Proton
+0.50 - 1 
+Import
+Proton :  0.50 - 1 
+...
+
+10  Purple Items Present.
+Chakram
+0.50 
+Very Rare
+Chakram :  0.50 
+...
+
+Troika
+0.50 
+Very Rare
+Troika :  0.50 
+...
+
+Spiralis
+0.50 
+Very Rare
+Spiralis :  0.50 
+...
+
+Polygonal
+0.25 - 0.50 
+Very Rare
+Polygonal :  0.25 - 0.50 
+...
+
+Slipstream
+7 - 8 
+Very Rare
+Slipstream :  7 - 8 
+...
+
+Parallax
+9 - 10 
+Very Rare
+Parallax :  9 - 10 
+...
+
+Labyrinth
+5 - 6  
+Very Rare
+Labyrinth :  5 - 6  
+...
+
+Heatwave
+18 - 20 
+Very Rare
+Heatwave :  18 - 20 
+...
+
+Hexed
+22 - 23 
+Very Rare
+Hexed :  22 - 23 
+...
+
+Biomass
+9 - 12 
+Very Rare
+Biomass :  9 - 12 
+...
+
+8  Yellow Items Present.
+Photons
+0.50 
+Exotic
+Photons :  0.50 
+...
+
+Loopers
+1 
+Exotic
+Loopers :  1 
+...
+
+Lobos
+0.50 
+Exotic
+Lobos :  0.50 
+...
+
+Voltaic
+1 
+Exotic
+Voltaic :  1 
+...
+
+Discotheque
+1 
+Exotic
+Discotheque :  1 
+...
+
+Pulsus
+0.50 - 1 
+Exotic
+Pulsus :  0.50 - 1 
+...
+
+Ara-51
+1 
+Exotic
+Ara-51 :  1 
+...
+
+Zomba
+1 
+Exotic
+Zomba :  1 
+...
+
+____________________
+Sample Output Ends Here
